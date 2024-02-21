@@ -7,5 +7,4 @@ La ejecucion del modelo de aprendizaje es relativamente sencillo, ya que se hara
 
 👉 Todo esta documentado y explicado para que se pueda usar de forma didactica.
 
-
-
+![val_batch0_labels](https://github.com/C0d3-16/detection-airplane-yolov8/assets/153969584/3182f91a-7a05-45f6-ac5c-b76ec098a002)
